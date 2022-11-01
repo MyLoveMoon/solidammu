@@ -3,7 +3,6 @@ import shutil
 import sys
 from typing import Dict
 
-import pytz
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from pyrogram.errors import UserAlreadyParticipant
 
