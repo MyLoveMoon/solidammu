@@ -33,9 +33,8 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://t.me/solidprojects_chat"><img alt="SolidProject Support" src="https://img.shields.io/badge/SolidProject-Support-blue.svg?logo=telegram"></a> <br/>
 </ul>
 
-<h3>Deploy to Heroku </h3>
-<div>
-     [ㅤㅤ](https://heroku.com/deploy?template=https://github.com/MyLoveMoon/solidammu)
+
+ [ㅤㅤ](https://heroku.com/deploy?template=https://github.com/MyLoveMoon/solidammu)
 
 ### Deploy to VPS
 ```
